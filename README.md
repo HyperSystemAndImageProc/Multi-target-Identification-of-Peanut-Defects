@@ -5,3 +5,5 @@ Wang, Yang, Zhao Ding, Jiayong Song, Zhizhu Ge, Ziqing Deng, Zijie Liu, Jihong W
 
 If you need the corresponding peanut defect dataset, you can obtain it by following this link：https://pan.baidu.com/s/1peVUZnz7NTQHsxrRyUVq2w 
 Password：6mdb
+
+If you require access to the code or any additional information, please do not hesitate to contact us at eliot.c.yang@163.com. We are happy to assist you in any way we can.
